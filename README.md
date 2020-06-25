@@ -1,3 +1,5 @@
 # english
 
-## [Irregular Verbs](irregularVerbs.md)
+## [conditionals](verbs/conditionals.md)
+
+## [verb](verbs/README.md)
